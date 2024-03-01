@@ -1,0 +1,388 @@
+id,zipcode,state,country,first_name,last_name,store_id
+100000001,11066,South Carolina,US,Jerad,Nader,101
+100000002,91027-0813,Vermont,US,Maybell,Lebsack,102
+100000003,38361,Virginia,US,Saige,Lind,103
+100000004,20283,Delaware,US,Cristina,Botsford,121
+100000005,98667,Texas,US,Roberto,Marks,122
+100000006,01881-6661,Tennessee,US,Deborah,Simonis,231
+100000007,70413,Hawaii,US,Furman,Schuster,232
+100000008,27160-7771,South Dakota,US,Remington,Rau,233
+100000009,21896-2614,Arizona,US,Erling,Ferry,341
+100000010,40389,Maryland,US,Elnora,Gerlach,342
+100000011,74386,Nevada,US,Matilde,Yundt,101
+100000012,2593,Montana,US,Raphaelle,Wehner,102
+100000013,54215,Texas,US,Kenya,Christiansen,103
+100000014,55892-9115,Wyoming,US,Guadalupe,Becker,121
+100000015,07267-2080,Utah,US,Jaydon,Barrows,122
+100000016,68628-4259,Ohio,US,Coty,Roberts,231
+100000017,38368-4765,Kentucky,US,Geoffrey,Wintheiser,232
+100000018,467,Nebraska,US,Lavonne,Toy,233
+100000019,02484-1982,Michigan,US,Kelsie,Kunde,341
+100000020,11206,Arkansas,US,Martin,DuBuque,342
+100000021,33072,Illinois,US,Danny,Jerde,101
+100000022,40953,Arkansas,US,Kendra,Fahey,102
+100000023,09404-0892,New Mexico,US,Camylle,Klocko,103
+100000024,41723-7598,Colorado,US,Claudia,Hettinger,121
+100000025,1346,New Mexico,US,Hudson,Zboncak,122
+100000026,29387,Oklahoma,US,Rosetta,Sawayn,231
+100000027,82145,Maine,US,Oswald,Collier,232
+100000028,40426-0099,Oregon,US,Bella,Barton,233
+100000029,65273-2083,South Dakota,US,Beaulah,Robel,341
+100000030,94204,Tennessee,US,Rollin,Sipes,342
+100000031,84288-1251,Delaware,US,Garnett,Fisher,101
+100000032,13250-4261,Virginia,US,Rhiannon,Gottlieb,102
+100000033,76290,New Hampshire,US,Elton,Rodriguez,103
+100000034,33087-1405,Hawaii,US,Jarvis,Kulas,121
+100000035,19405-7146,Connecticut,US,Delia,Treutel,122
+100000036,41837-3305,Tennessee,US,Nickolas,Mitchell,101
+100000037,68557,Texas,US,Cielo,Cartwright,102
+100000038,53346-2087,Alabama,US,Napoleon,Ortiz,103
+100000039,95912-5351,South Carolina,US,Gilda,Hand,121
+100000040,70741,Rhode Island,US,Marianna,Rutherford,122
+100000041,22760-2803,Iowa,US,Alexandrine,Thiel,101
+100000042,58194,Missouri,US,Christ,Daniel,102
+100000043,83593,Washington,US,Cleora,Little,103
+100000044,73410,Oklahoma,US,Alanis,Welch,121
+100000045,49013,Massachusetts,US,Calista,Brakus,122
+100000046,66309,South Carolina,US,Pearline,Huel,231
+100000047,18263-2053,North Dakota,US,Keagan,Pollich,232
+100000048,93577-3407,Nebraska,US,Felicita,Ritchie,233
+100000049,94485-3501,Wyoming,US,Mariela,Rosenbaum,341
+100000050,27309-2476,Washington,US,Everardo,Blick,342
+100000051,47409-9609,North Carolina,US,Manley,Dare,101
+100000052,61295-0744,New York,US,Abdullah,Schultz,102
+100000053,41927-4975,Michigan,US,Ila,O'Reilly,103
+100000054,18610,Pennsylvania,US,Andres,Macejkovic,121
+100000055,5159,District of Columbia,US,Melyssa,Lockman,122
+100000056,41921,North Carolina,US,Edison,Shields,231
+100000057,07327-9907,New Jersey,US,Eddie,Stroman,232
+100000058,74885-7463,Washington,US,Lawrence,Bauch,233
+100000059,96557-2003,Oklahoma,US,Demarcus,Hudson,341
+100000060,82203,Georgia,US,Bettie,Jacobson,342
+100000061,90890,Nevada,US,Logan,Kirlin,101
+100000062,55553,Wyoming,US,Laurine,Nienow,102
+100000063,04492-5366,Washington,US,Terrance,VonRueden,103
+100000064,81983,Massachusetts,US,Emily,Larson,121
+100000065,21172,Pennsylvania,US,Wilmer,Maggio,122
+100000066,16963,North Dakota,US,Kip,Steuber,231
+100000067,30268-4915,Louisiana,US,Bernhard,Champlin,232
+100000068,8030,North Dakota,US,Amber,Schamberger,233
+100000069,17384-5662,Iowa,US,Carlo,Jacobs,341
+100000070,31760,Wisconsin,US,Elisabeth,McKenzie,342
+100000071,67259,Louisiana,US,Kennedy,Wuckert,101
+100000072,26187,Kentucky,US,Domingo,Jenkins,102
+100000073,08642-5604,Arkansas,US,Felton,Witting,103
+100000074,49268-6984,Pennsylvania,US,Trever,Kohler,121
+100000075,68386-5974,Illinois,US,Johnpaul,Waelchi,122
+100000076,6129,Kansas,US,Justina,Schoen,101
+100000077,26022,Oklahoma,US,Rosie,Weber,102
+100000078,49188,Washington,US,Adriel,Ward,103
+100000079,57739,Indiana,US,Mireille,McLaughlin,121
+100000080,51164,Vermont,US,Eliseo,Funk,122
+100000081,24800-7016,Alaska,US,Leopold,McClure,101
+100000082,64265,Mississippi,US,Hadley,Doyle,102
+100000083,12425,Florida,US,Rae,Durgan,103
+100000084,03753-9809,New Hampshire,US,Sonia,Stark,121
+100000085,44466,Michigan,US,Ernest,Grant,122
+100000086,77039-4797,Rhode Island,US,Brooke,Mayert,231
+100000087,51152-1352,Minnesota,US,Virgie,Mante,232
+100000088,54992,Missouri,US,Stephanie,West,233
+100000089,60641,Iowa,US,Sylvan,Lowe,341
+100000090,72578,Hawaii,US,Dino,Ankunding,342
+100000091,58307-8766,South Carolina,US,Avis,Tillman,101
+100000092,71684-3896,New Mexico,US,Flo,Emmerich,102
+100000093,57205,Mississippi,US,Salma,Reinger,103
+100000094,39427,Illinois,US,Thea,Dibbert,121
+100000095,82202-2135,Montana,US,Colin,Reichert,122
+100000096,6891,New Jersey,US,Dexter,Corwin,231
+100000097,33487-7103,Georgia,US,Johathan,Jakubowski,232
+100000098,63341-5111,New Jersey,US,Drew,Torp,233
+100000099,27413,Vermont,US,Isac,Moore,341
+100000100,47346-9463,Minnesota,US,Vergie,Fritsch,342
+100000101,30530,Maine,US,Rosemarie,Mante,101
+100000102,40960-0185,Maine,US,Fanny,Corkery,102
+100000103,28867-5066,Michigan,US,Charlotte,Gulgowski,103
+100000104,17052,Connecticut,US,Chadrick,Schaden,121
+100000105,85970,Rhode Island,US,Fritz,Satterfield,122
+100000106,75856-8780,Idaho,US,Mikayla,Reilly,231
+100000107,82482-0991,Kansas,US,Garrick,Ebert,232
+100000108,96600-9733,Missouri,US,Darryl,Hickle,233
+100000109,82122,Florida,US,Amber,Bins,341
+100000110,37097,Rhode Island,US,Ivy,Ledner,342
+100000111,70696-2292,New Hampshire,US,Callie,Abbott,101
+100000112,63576,California,US,Eliseo,Gutkowski,102
+100000113,40458-2374,Virginia,US,Bradly,Wiegand,103
+100000114,12176-0155,Alabama,US,Althea,Fisher,121
+100000115,47095,Oklahoma,US,Esmeralda,Walsh,122
+100000116,07738-6832,California,US,Malika,Hammes,101
+100000117,01506-3233,Wisconsin,US,Devyn,Wisoky,102
+100000118,64650,Tennessee,US,Ernestine,Casper,103
+100000119,71405-7021,Mississippi,US,Barrett,Wilderman,121
+100000120,76681-1929,Indiana,US,Kiara,Wisozk,122
+100000121,61780,Indiana,US,Jonathan,Kulas,101
+100000122,43288-3310,Massachusetts,US,Elvie,Lowe,102
+100000123,66202-9042,Colorado,US,Ned,Gerlach,103
+100000124,63921,Louisiana,US,Megane,Franecki,121
+100000125,42627-6739,Louisiana,US,Neoma,Maggio,122
+100000126,35407-2526,Delaware,US,Raven,Kuhic,231
+100000127,72227,Arizona,US,Lorine,Von,232
+100000128,77092-9309,California,US,Meghan,Gutmann,233
+100000129,73205,South Carolina,US,Constance,Price,341
+100000130,04706-6833,West Virginia,US,Jennings,Nader,342
+100000131,83395-9847,South Carolina,US,Caterina,Trantow,101
+100000132,49638,Virginia,US,Lenore,Nolan,102
+100000133,74353,Indiana,US,Breanne,Stracke,103
+100000134,84931,New Jersey,US,Mayra,Abernathy,121
+100000135,84775,North Carolina,US,Kamryn,Grimes,122
+100000136,84379-3478,Missouri,US,Joy,Fahey,231
+100000137,47378-2156,Minnesota,US,Dayne,Stehr,232
+100000138,55191-9187,Colorado,US,Carley,Gislason,233
+100000139,83776-9849,Idaho,US,Jazmyn,Carter,341
+100000140,29373-5784,Louisiana,US,Raphael,Gleichner,342
+100000141,97784,Louisiana,US,Kacie,Mann,101
+100000142,84986,Colorado,US,Geraldine,Pollich,102
+100000143,29105-9327,North Dakota,US,Charlene,Russel,103
+100000144,87406,Vermont,US,Cooper,Kiehn,121
+100000145,8526,Louisiana,US,Pattie,Bartell,122
+100000146,20678,Kentucky,US,Phoebe,Eichmann,231
+100000147,42563,New Jersey,US,Cordie,Fadel,232
+100000148,78700-0283,Kentucky,US,Rubye,Grant,233
+100000149,66266-8026,North Carolina,US,Emma,Bradtke,341
+100000150,59451-5758,New Mexico,US,Reed,Botsford,342
+100000151,83986-2564,Minnesota,US,Fern,Pfannerstill,101
+100000152,3344,District of Columbia,US,Alejandrin,White,102
+100000153,47117,Minnesota,US,Oda,Hermiston,103
+100000154,12487-3902,Massachusetts,US,Roel,Dare,121
+100000155,80303-7563,Colorado,US,Jolie,McLaughlin,122
+100000156,49175-3113,Idaho,US,Martina,Feest,101
+100000157,45966,Utah,US,Theresia,Johnson,102
+100000158,19566-9791,New York,US,Magdalena,Dickinson,103
+100000159,91364,Virginia,US,Blair,Erdman,121
+100000160,57732,District of Columbia,US,Eladio,Murray,122
+100000161,73714,Utah,US,Vivianne,Carroll,101
+100000162,5283,Connecticut,US,Sonia,Metz,102
+100000163,10314,Indiana,US,Willa,Stroman,103
+100000164,50518,Louisiana,US,Lula,Reichert,121
+100000165,72654-9714,Oregon,US,Madalyn,Will,122
+100000166,51791,Nebraska,US,Lydia,Kshlerin,231
+100000167,12146-0461,Ohio,US,Ceasar,Feeney,232
+100000168,94458,South Carolina,US,Euna,Rippin,233
+100000169,33091,New Jersey,US,Paris,Fritsch,341
+100000170,99932,Idaho,US,Reuben,Bednar,342
+100000171,91084-8333,Hawaii,US,Ottis,Ernser,101
+100000172,67642-7185,Rhode Island,US,Kyle,Lesch,102
+100000173,17827,Maryland,US,Laila,Larson,103
+100000174,28592-5335,Hawaii,US,Cloyd,Swaniawski,121
+100000175,14436-2273,District of Columbia,US,Robin,Gerhold,122
+100000176,78427-0355,Washington,US,Jayde,Powlowski,231
+100000177,80075-0074,Vermont,US,Dahlia,Willms,232
+100000178,25325-6558,Wisconsin,US,Alysson,Ryan,233
+100000179,64586,Idaho,US,Chance,McGlynn,341
+100000180,59255,New Hampshire,US,Sienna,Hand,342
+100000181,75978,Vermont,US,Georgette,Boyer,101
+100000182,53669,Kentucky,US,Naomi,Terry,102
+100000183,70154-4870,North Carolina,US,Julie,Hoeger,103
+100000184,09307-0397,Massachusetts,US,Taylor,Turner,121
+100000185,25743,Iowa,US,Carolanne,Brakus,122
+100000186,87319,Indiana,US,Vince,Hettinger,231
+100000187,72402,North Carolina,US,Stephen,Runolfsson,232
+100000188,10809-8385,New Mexico,US,Ashly,Wolff,233
+100000189,24390,Nebraska,US,Orland,Stanton,341
+100000190,55550,Vermont,US,Erika,Paucek,342
+100000191,39449,Nebraska,US,Marina,Heidenreich,101
+100000192,44630,Missouri,US,Mateo,Moen,102
+100000193,54021-2454,Arizona,US,Frederick,Welch,103
+100000194,43801,Kentucky,US,Monserrate,Hansen,121
+100000195,70825-0774,Colorado,US,Keira,Lebsack,122
+100000196,27338,Pennsylvania,US,Randal,Wunsch,101
+100000197,61240,Georgia,US,Luciano,Kuhn,102
+100000198,96636,Illinois,US,Lavada,Lynch,103
+100000199,84070-4559,Mississippi,US,David,Bahringer,121
+100000200,60069-7193,Illinois,US,Curt,Kuhlman,122
+100000201,54310-1995,Ohio,US,Christ,Hansen,101
+100000202,59480,Wisconsin,US,Savanna,Herzog,102
+100000203,40639-0161,Delaware,US,Sarah,Olson,103
+100000204,52889,Florida,US,Werner,Tillman,121
+100000205,98391,Louisiana,US,Jared,Wintheiser,122
+100000206,26002-1184,Utah,US,Curt,Schiller,231
+100000207,64851,Indiana,US,Dusty,Daugherty,232
+100000208,55165,Michigan,US,Kay,Gutmann,233
+100000209,92948,Pennsylvania,US,Raphael,Jakubowski,341
+100000210,21918,Michigan,US,Cyrus,Abshire,342
+100000211,48012-2725,Maine,US,Nyasia,Goyette,101
+100000212,46202-9390,Mississippi,US,Alyce,Schmitt,102
+100000213,41300,Ohio,US,Gia,Ernser,103
+100000214,54974-9955,Oklahoma,US,Junius,Graham,121
+100000215,92679,Michigan,US,Grayce,Morar,122
+100000216,51623-1803,Illinois,US,Dahlia,Will,231
+100000217,62921-7963,Michigan,US,Llewellyn,Blick,232
+100000218,40310-6692,New York,US,Lesly,Reilly,233
+100000219,59252-8278,South Dakota,US,Angelita,Collins,341
+100000220,64804,Wisconsin,US,Lauryn,Kuhic,342
+100000221,64697,Kentucky,US,Jana,Reinger,101
+100000222,26512,Illinois,US,Alvina,Johnston,102
+100000223,35102-0742,District of Columbia,US,Una,O'Connell,103
+100000224,98792,Wisconsin,US,Koby,Schultz,121
+100000225,68444,Nevada,US,Bryce,Mertz,122
+100000226,51436,Wyoming,US,Dayana,Bode,231
+100000227,11046,California,US,Wilfred,Dickinson,232
+100000228,8837,New Jersey,US,Brandy,Vandervort,233
+100000229,80245-5133,Oklahoma,US,Mohamed,Bogisich,341
+100000230,32023-5013,Idaho,US,Watson,Huel,342
+100000231,95752-7902,North Carolina,US,Cali,Schaefer,101
+100000232,72522-0468,New Mexico,US,Evangeline,Prohaska,102
+100000233,29603,Tennessee,US,Nicola,Adams,103
+100000234,17007-5940,Maine,US,Dorian,Dare,121
+100000235,83841,New York,US,Bryana,Robel,122
+100000236,93465,Tennessee,US,Allie,Langworth,101
+100000237,83310-9640,Texas,US,Clark,Cole,102
+100000238,19355,New Jersey,US,Garret,Cummerata,103
+100000239,29475-0465,New Hampshire,US,Madie,Streich,121
+100000240,32367-0670,Massachusetts,US,Petra,Rolfson,122
+100000241,62381-4092,Oklahoma,US,Martin,Welch,101
+100000242,33676,Colorado,US,Aiyana,Rowe,102
+100000243,01282-2103,Minnesota,US,Esther,Bailey,103
+100000244,91746-7133,Ohio,US,Vicky,Leuschke,121
+100000245,37816-2937,Florida,US,Deron,White,122
+100000246,6579,Wyoming,US,Rogelio,Nicolas,231
+100000247,38306-5108,Hawaii,US,Ivory,Hamill,232
+100000248,59983-6808,Rhode Island,US,Darion,Ziemann,233
+100000249,62175,New Mexico,US,Antwon,Murray,341
+100000250,94622,South Dakota,US,Myrtie,Hintz,342
+100000251,54463-7297,Kentucky,US,Erling,Kunde,101
+100000252,61305,Maryland,US,Stacey,Treutel,102
+100000253,14368-3487,Minnesota,US,Brooks,Dach,103
+100000254,81751,California,US,Antonina,Waelchi,121
+100000255,13214,New Jersey,US,Roxanne,Fadel,122
+100000256,29769,Arizona,US,Judson,Gislason,231
+100000257,26393-9232,New York,US,Nathaniel,Barton,232
+100000258,99150-7093,Delaware,US,Dewayne,Bruen,233
+100000259,90587,Florida,US,Ryley,King,341
+100000260,42976,North Dakota,US,Dora,Bartell,342
+100000261,96117-9861,West Virginia,US,Vena,Blanda,101
+100000262,68415,Hawaii,US,Floyd,Kerluke,102
+100000263,05445-9476,District of Columbia,US,Laisha,Halvorson,103
+100000264,54973-7976,Iowa,US,Elna,Schuster,121
+100000265,20534-1738,Maine,US,Odie,Lueilwitz,122
+100000266,60593-2812,Virginia,US,Mitchell,Wolff,231
+100000267,68878-7345,Oklahoma,US,Maureen,Jerde,232
+100000268,17344,California,US,Yvonne,Friesen,233
+100000269,69636-7294,Utah,US,Elliot,Sauer,341
+100000270,35674-8348,New York,US,Waldo,VonRueden,342
+100000271,94036,Wisconsin,US,Queenie,Schroeder,101
+100000272,97667,New Mexico,US,Pat,Koss,102
+100000273,37523-2453,District of Columbia,US,Dayton,Baumbach,103
+100000274,28996,Nevada,US,Yolanda,Stracke,121
+100000275,19726,New Mexico,US,Trinity,Ferry,122
+100000276,95543,Illinois,US,Jairo,Rogahn,101
+100000277,36312,Colorado,US,Ulises,Jacobs,102
+100000278,85612-2523,Massachusetts,US,Vickie,Wuckert,103
+100000279,86896,Tennessee,US,Ressie,Heller,121
+100000280,86189-8776,South Dakota,US,Jordi,Hirthe,122
+100000281,34544-4979,Alaska,US,Kylie,Wiza,101
+100000282,65290-7158,California,US,Cole,Williamson,102
+100000283,57229-6091,Michigan,US,Diego,Douglas,103
+100000284,65682,Montana,US,Ora,Effertz,121
+100000285,64057-4345,Georgia,US,Scot,Labadie,122
+100000286,87644,New Jersey,US,Javier,Schneider,231
+100000287,55364-4307,Vermont,US,Jalyn,Bahringer,232
+100000288,26593,Indiana,US,Elwyn,Raynor,233
+100000289,61922-8038,New York,US,Reid,Rohan,341
+100000290,20720-3944,Rhode Island,US,Anais,Runolfsdottir,342
+100000291,51526-4868,Michigan,US,Oren,Kemmer,101
+100000292,54146,Illinois,US,Rodrick,Prosacco,102
+100000293,42583,Ohio,US,Manuela,Conn,103
+100000294,39634,Oregon,US,Camren,Roberts,121
+100000295,51698-4292,Wisconsin,US,Juvenal,Bosco,122
+100000296,07289-2130,Vermont,US,Jude,Kub,231
+100000297,04679-9694,Oklahoma,US,Sheridan,Trantow,232
+100000298,71157,Delaware,US,Van,Purdy,233
+100000299,41152-1038,Indiana,US,Mae,Kuhlman,341
+100000300,49187,New Mexico,US,Lavinia,Mosciski,342
+100000301,36191,Kentucky,US,Julian,Shanahan,101
+100000302,28998-8926,Arkansas,US,Clarabelle,Batz,102
+100000303,74550,District of Columbia,US,Karley,Cormier,103
+100000304,74422-1659,New Jersey,US,Einar,Kassulke,121
+100000305,88407,New Hampshire,US,Janessa,Rutherford,122
+100000306,34955-8798,New Hampshire,US,Diamond,Streich,231
+100000307,3914,Oregon,US,Violette,Watsica,232
+100000308,90835-4435,Arizona,US,Greg,Hane,233
+100000309,71880,Iowa,US,Dominic,Huels,341
+100000310,57722-2074,Nebraska,US,Fred,Heaney,342
+100000311,43276,Minnesota,US,Kacey,Bergstrom,101
+100000312,01367-6181,Delaware,US,Garnett,D'Amore,102
+100000313,82160-2355,Oregon,US,Rasheed,Hoppe,103
+100000314,51968,Nebraska,US,Ellie,Kirlin,121
+100000315,94785,Nebraska,US,Glen,Mertz,122
+100000316,41402,New Jersey,US,Eula,Turcotte,101
+100000317,60248,Indiana,US,Melisa,Wolf,102
+100000318,87206,Colorado,US,Adolphus,Kub,103
+100000319,48132-2674,Hawaii,US,Alanis,Kautzer,121
+100000320,61246-7215,Missouri,US,Deangelo,Bailey,122
+100000321,62521,District of Columbia,US,Cassie,Kuhlman,101
+100000322,01388-2354,Arkansas,US,Travon,Franecki,102
+100000323,01330-0345,Louisiana,US,Nick,Leffler,103
+100000324,53920-2042,Utah,US,Clemmie,Gibson,121
+100000325,93254,Louisiana,US,Phyllis,Ullrich,122
+100000326,40501-1171,Mississippi,US,Bennett,Homenick,231
+100000327,42431-8708,Connecticut,US,Skyla,Hessel,232
+100000328,96432-6396,New Jersey,US,Jennifer,Hills,233
+100000329,20213-6263,New York,US,Mallory,Altenwerth,341
+100000330,11520,North Carolina,US,Raymond,Schiller,342
+100000331,69905-6201,Oregon,US,Brycen,Ondricka,101
+100000332,34611-5271,Maryland,US,Mohammed,Pouros,102
+100000333,43197,Michigan,US,Muriel,Toy,103
+100000334,33807-9165,Kansas,US,Bridie,Kling,121
+100000335,75724-1594,Wyoming,US,Lucius,Zemlak,122
+100000336,56541,Virginia,US,Jarrod,Ritchie,231
+100000337,60175-2278,Maine,US,Lilian,Gutkowski,232
+100000338,78162,Kentucky,US,Monroe,Gusikowski,233
+100000339,98224,Hawaii,US,Scotty,Bode,341
+100000340,40866-7183,Iowa,US,Turner,Cassin,342
+100000341,03471-3721,Massachusetts,US,Yasmeen,Pagac,101
+100000342,45402,Massachusetts,US,Ike,Schuster,102
+100000343,84173-4570,Michigan,US,Ashlee,Crooks,103
+100000344,85262-1578,Massachusetts,US,Travis,Welch,121
+100000345,87244,Delaware,US,Antonia,Erdman,122
+100000346,55902-0471,Georgia,US,Bridget,Marks,231
+100000347,94401-3806,Alaska,US,Ona,Volkman,232
+100000348,10419-0789,Alabama,US,Litzy,Abernathy,233
+100000349,76724,Massachusetts,US,Melba,Hahn,341
+100000350,08898-5305,New Jersey,US,Demond,Reichert,342
+100000351,33959-2750,West Virginia,US,Samantha,Stark,101
+100000352,15245-8572,Montana,US,Randy,Zieme,102
+100000353,83124,New Jersey,US,Hailie,Lindgren,103
+100000354,90396-9434,Connecticut,US,Kayleigh,Beier,121
+100000355,12512-3830,District of Columbia,US,Leif,Koepp,122
+100000356,64295-1574,Georgia,US,Domenico,Dooley,101
+100000357,81452,Kentucky,US,Vickie,Ziemann,102
+100000358,55386,Arizona,US,Oda,Kunde,103
+100000359,19625,Kentucky,US,Jeff,Bashirian,121
+100000360,36994,Hawaii,US,Cale,Purdy,122
+100000361,54206,Alaska,US,Tony,Nolan,101
+100000362,19324-5389,Georgia,US,Lea,Mills,102
+100000363,33387-6463,Georgia,US,Floy,Moen,103
+100000364,91957-1458,North Carolina,US,Ahmad,Connelly,121
+100000365,80221,Pennsylvania,US,Else,Boyer,122
+100000366,31766-8187,Washington,US,Krystal,Johnston,231
+100000367,57769,Washington,US,Hollie,Reilly,232
+100000368,41295-9730,District of Columbia,US,Mose,Dicki,233
+100000369,22153-8264,Alaska,US,Aiden,Wilderman,341
+100000370,21955-0924,New Hampshire,US,Alexandrea,Waelchi,342
+100000371,52947,Colorado,US,German,Bartell,101
+100000372,58592-0148,Rhode Island,US,Claude,Hermiston,102
+100000373,86599,Virginia,US,Columbus,Senger,103
+100000374,33274-3108,Connecticut,US,Tremaine,Olson,121
+100000375,83667-2602,Missouri,US,Corene,Koelpin,122
+100000376,97302-5526,Indiana,US,Sean,Lakin,231
+100000377,76337-2680,West Virginia,US,Clementine,Keeling,232
+100000378,44079,Idaho,US,Kimberly,Roob,233
+100000379,99252,Tennessee,US,Idella,Aufderhar,341
+100000380,21510-5854,Florida,US,Delpha,Mitchell,342
+100000381,26898-7153,Louisiana,US,Joanny,Stracke,101
+100000382,39292-1284,Montana,US,Kattie,Little,102
+100000383,75274,Texas,US,Laura,Witting,103
+100000384,37987-3735,Wyoming,US,Guadalupe,Schuppe,121
+100000385,26886-9573,West Virginia,US,Ulices,Wisozk,122
+100000386,74709,District of Columbia,US,Gerard,Labadie,231
+100000387,94494,New Jersey,US,Lincoln,Anderson,232
