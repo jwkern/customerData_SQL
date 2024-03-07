@@ -5,8 +5,8 @@ This SQL code (customerData_JWK.sql) calculates the profit margin of a fictitiou
 dataset of customer transactions. The data for the card, transaction, and customer 
 are stored in separate databases which also include the store and card type which 
 are stored in small master databases. The revenue of each transaction is logged as 
-well as the cost of the product(s) sold. This is used to calculate the profit 
-margin and other metrics of the dataset.  
+well as the cost of the product(s) sold. This is used to calculate the monthly 
+profit margin.  
 
 Written by: Joshua W. Kern
 Date: 03/01/24                                                                  
