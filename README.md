@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 GENERAL DESCRIPTION:
-This SQL script uses five related spreadsheets of financial information (e.g. card type, transactions, customer info, etc.) to calculate profit margins and other relevant metrics.
+This SQL script uses five related spreadsheets of financial information (e.g. card type, transactions, customer info, etc.) to calculate monthly profit margins.
 ___________________________________________________________________________________________________________________________________________________________________
 DATA DESCRIPTION:
 In this example, the financial data being used has been generated partly from the online source https://generate-random.org/person-identity-generator. 
@@ -55,7 +55,8 @@ An example schema of each of the dataframes are given below:
 
 ___________________________________________________________________________________________________________________________________________________________________
 CODE DESCRIPTION:
-This SQL code (customerData_JWK.sql) imports financial data for three months of transactions at various company locations. The script uses the individual transactions to calculate the profit margin and other metrics.  
+This SQL code (customerData_JWK.sql) imports financial data for three months of transactions at various company locations. The script uses the individual transactions 
+to calculate the monthly profit margin by summing the revenue and the cost, taking their difference, and dividing by the revenue total.   
 
 
 ___________________________________________________________________________________________________________________________________________________________________
