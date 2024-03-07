@@ -90,7 +90,7 @@ Step 3: Select subset of data and calculate properties
 _______________________________________________________________________________*/
 CREATE TABLE profitTransactions AS SELECT MONTH(date) AS month, 
 				YEAR(date) AS year, 
-				(revenue - cost)/revenue AS profit_margin,
+				((revenue - cost) / revenue) AS profit_margin,
 				cardNumber.customer_id AS customer_id,
 				cardNumber.id AS card_id
 FROM cardTransactions
